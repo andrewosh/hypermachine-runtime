@@ -14,7 +14,7 @@ napi = { version = "0.5", features = ["serde-json", "libuv"] }
 napi-derive = { version = "0.5" }
 log = "0.4.11"
 anyhow = "1.0.32"
-env_logger = "0.7.1"
+env_logger = "0.8.1"
 sha2 = "0.9.1"
 lazy_static = "1.4.0"
 once_cell = "1.4.1"
